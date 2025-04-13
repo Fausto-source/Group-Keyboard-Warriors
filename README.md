@@ -13,7 +13,9 @@ Draw.io - For visualizing the database schema and relationships
 
 contributors
 
-Faustine kamau
-Yvonne Kisanya
-Mary Karago
+Faustine kamau,
+
+Yvonne Kisanya,
+
+Mary Karago.
 
