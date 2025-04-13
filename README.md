@@ -6,6 +6,7 @@ The goal is to build a relational database that stores information about the boo
 
 Tools and Technologies
 MySQL - For building and managing the database
+
 Draw.io - For visualizing the database schema and relationships
 
 
